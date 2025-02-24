@@ -1,7 +1,8 @@
 DockerFileがあるディレクトリで
 
 ①-----------------------------------------------
-docker-compose run docker-web rails new . --fose --database=mysql --skip-bundle
+docker-compose run docker-web rails new . --force --database=mysql --skip-bundle
+
 #runコマンドはimageの作成からコンテナ構築や起動を一度に実行　引数にはサービスを指定する必要があります。
 
 ②
