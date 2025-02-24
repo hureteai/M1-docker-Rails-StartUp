@@ -25,3 +25,6 @@ run docker-web rails db:create
 
 ⑥http://localhost:4001
 へアクセスすれば確認できるはず。
+
+
+⑦git clone https://github.com/hureteai/M1-docker-Rails-StartUp.git 「新しい名前」
